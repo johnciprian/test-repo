@@ -1,0 +1,14 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Test repo for dependabot",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "express": "^5.1.0",
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
